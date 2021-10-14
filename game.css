@@ -1,11 +1,11 @@
 body
 {
-	background: white;
+	background: #ce4a4a;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: hotpink;
+		background: white;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
